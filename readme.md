@@ -19,4 +19,4 @@ This project demonstrates API automation testing using Selenium, Java, and RestA
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/api-automation.git
+   git clone https://github.com/SoorajSundar1505/Automation_RestAPI_GraphQL.git
