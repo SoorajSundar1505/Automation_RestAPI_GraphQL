@@ -1,4 +1,4 @@
-package pojoBuilder;
+package restAPI;
 
 import base.setupRestAPI;
 

@@ -1,4 +1,4 @@
-package lombokBuilder;
+package restAPI;
 
 
 import lombok.Data;

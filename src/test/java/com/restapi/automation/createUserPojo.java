@@ -6,7 +6,7 @@ import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import static io.restassured.RestAssured.given;
 import base.setupRestAPI;
-import pojoBuilder.postUserPojo;
+import restAPI.postUserPojo;
 
 import static io.restassured.module.jsv.JsonSchemaValidator.matchesJsonSchema;
 import static org.hamcrest.Matchers.*;

@@ -9,10 +9,10 @@ import base.setupRestAPI;
 import static io.restassured.RestAssured.given;
 
 import lombok.Data;
-import lombokBuilder.postUserLombok;
 import lombok.Data;
 import lombok.Getter;
 import lombok.Setter;
+import restAPI.postUserLombok;
 public class createUserLombok extends setupRestAPI{
 	
 	postUserLombok user = new postUserLombok();
